@@ -2,7 +2,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { Flex, Box, Text, Button } from '@chakra-ui/react'
 import styles from '../styles/Home.module.css'
-import { baseUrl, fetchApi } from '../utils/FetchApi'
+import { baseUrl, fetchApi } from '../utils/fetchApi'
 import Property from '../components/Property'
 
 
